@@ -1,2 +1,3 @@
 # SpringcloudConfigTest
-test
+foo = foo version 2
+democonfigclient.message=hello spring io
